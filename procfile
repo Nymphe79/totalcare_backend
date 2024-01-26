@@ -1,0 +1,2 @@
+web: node start --prefix backend/nodeServer/index.js
+flutter: cd frontend && flutter run -d web
